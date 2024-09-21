@@ -1,6 +1,6 @@
 ## Spatial without Compromise; Open Source GIS for Everyone
 
-Organised as part of the Software Freedom Day celebration in Accra, Ghana or organized by Linux Accra User Group.
+Organised as part of the Software Freedom Day celebration in Accra, Ghana by Linux Accra User Group.
 - Web: https://sfd24.linuxaccra.org/
 - Github: https://github.com/LinuxAccra-UserGroup/SFD2024/wiki
 
